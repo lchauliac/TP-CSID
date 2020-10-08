@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 tic tac tic!
+=======
+tic tac tic tac!
+>>>>>>> lucien
